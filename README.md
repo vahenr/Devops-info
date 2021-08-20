@@ -1,2 +1,0 @@
-# Devops-info
-Devops Material
